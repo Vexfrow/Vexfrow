@@ -1,1 +1,1 @@
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Vexfrow)
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Vexfrow&gstats=show&style=midnight)
